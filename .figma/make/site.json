@@ -1,0 +1,11 @@
+{
+  "title": "The Muse Society — A Home for Creative Company",
+  "description": "Enhance user engagement with stunning scroll-through animations inspired by award-winning websites, perfect for businesses seeking to elevate their online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
